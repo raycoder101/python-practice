@@ -11,7 +11,7 @@ __pycache__/
 # Data files
 #*.csv
 #*.parquet
-#ecommerce_partitioned.parquet/
+ecommerce_partitioned.parquet/
 #demofile.txt
 
 # Secrets and credentials
