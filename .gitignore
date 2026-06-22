@@ -9,10 +9,10 @@ __pycache__/
 *.pyo
 
 # Data files
-*.csv
-*.parquet
-ecommerce_partitioned.parquet/
-demofile.txt
+#*.csv
+#*.parquet
+#ecommerce_partitioned.parquet/
+#demofile.txt
 
 # Secrets and credentials
 .env
