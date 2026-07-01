@@ -1,0 +1,9 @@
+// user.proto
+syntax = "proto3";
+
+message User {
+  string name = 1;
+  int32 id = 2;
+  string email = 3;
+  repeated string roles = 4; // Represents a list of strings
+}
